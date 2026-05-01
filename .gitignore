@@ -16,3 +16,10 @@ Thumbs.db
 # Temp
 *.tmp
 *.bak
+.~lock.*#
+
+# Python
+__pycache__/
+
+# Node
+rlm/node_modules/
